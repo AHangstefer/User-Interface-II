@@ -56,7 +56,7 @@ h1{
     display:flex;
     justify-content: center;
     font-size: 4rem;
-    padding: 30px;
+    padding: 2%;
 }
 
 nav{
@@ -81,7 +81,7 @@ h2{
     display:flex;
     justify-content: center;
     font-size: 3rem;
-    padding: 10px;
+    padding: 1rem;
 }
 
 #intro {
@@ -96,7 +96,7 @@ h2{
 #firstp{
     display:flex;
     justify-content: center;
-    padding: 20px;
+    padding: 2%;
 }
 
 
@@ -111,7 +111,7 @@ footer .together{
 }
 
 .together img{
-   padding: 10px; 
+   padding: 1%; 
 }
 
 .together span{
@@ -123,6 +123,6 @@ footer .together{
 #box{
     display:flex;
     justify-content: center;
-    padding: 40px;
+    padding: 4%;
 
 }
