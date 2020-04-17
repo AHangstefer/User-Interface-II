@@ -147,11 +147,12 @@ footer .together{
     }
 
     #firstp{
-        flex-shrink: 1;
+        width: 90%;
     }
 
     footer .together{
         flex-wrap: wrap-reverse;
+        justify-content: space-evenly;
     }
 
 
